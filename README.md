@@ -13,7 +13,7 @@
 - Communication Skills
 
 ## Projects
-- Major Project
-- Blink Detection Honors Project
-- Mini Project
-- Internship Project
+- Major Project : E-Nivaran (Smart Governance Through AI)
+- Honors Project : BlinkCode (A Real-Time Morse Code Communication System Using Eye Blink Detection)
+- Mini Project : Netflix Movie Recommendation System Using Machine Learning
+- Internship Project : Next Word Prediction
